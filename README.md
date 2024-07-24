@@ -1,3 +1,4 @@
+![logo](https://github.com/Prekshithcr/Prekshithcr/blob/main/1713511420215.jpeg)
 <h1 align="center">Hi 👋, I'm Prekshith C R</h1>
 <h3 align="center">MSc Data Science Graduate</h3>
 
